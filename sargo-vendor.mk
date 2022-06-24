@@ -306,12 +306,12 @@ PRODUCT_PACKAGES += \
     MobileFeliCaSettingApp \
     MobileFeliCaWebPlugin \
     MobileFeliCaWebPluginBoot \
+    GoogleCamera \
     PixelCameraServicesSargo \
     VZWAPNLib \
     com.qualcomm.qti.services.secureui \
     AmbientSensePrebuilt \
     AppDirectedSMSService \
-    CarrierServices \
     CarrierSettings \
     CarrierWifi \
     ConnMO \
